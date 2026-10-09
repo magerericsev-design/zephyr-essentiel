@@ -8,19 +8,19 @@
       "priorite": 3,
       "categorie": "technique",
       "titre": "Test autonome GitHub",
-      "texte": "Modification autonome demandée."
+      "texte": "Contrôle GitHub répété"
     },
     {
       "priorite": 2,
       "categorie": "publication",
       "titre": "Depot GitHub",
-      "texte": "Mise à jour demandée par tâche ChatGPT"
+      "texte": "Même canal, même fichier JSON"
     },
     {
       "priorite": 1,
       "categorie": "automatisation",
       "titre": "Vérification du commit",
-      "texte": "Relire le fichier après écriture."
+      "texte": "Vérification après mise à jour"
     }
   ],
   "signature": "Zéphyr 🦊"
