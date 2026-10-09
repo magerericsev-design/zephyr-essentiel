@@ -7,20 +7,20 @@
     {
       "priorite": 3,
       "categorie": "technique",
-      "titre": "Initialisation",
-      "texte": "Le fichier JSON est initialise."
+      "titre": "Test autonome GitHub",
+      "texte": "Modification autonome demandée."
     },
     {
       "priorite": 2,
       "categorie": "publication",
       "titre": "Depot GitHub",
-      "texte": "Le canal de lecture est en test."
+      "texte": "Mise à jour demandée par tâche ChatGPT"
     },
     {
       "priorite": 1,
       "categorie": "automatisation",
-      "titre": "Prochaine etape",
-      "texte": "Tester la modification autonome."
+      "titre": "Vérification du commit",
+      "texte": "Relire le fichier après écriture."
     }
   ],
   "signature": "Zéphyr 🦊"
