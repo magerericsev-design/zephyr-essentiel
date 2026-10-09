@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "date": "2026-10-09",
+  "mode": "demonstration",
+  "meteo": "indisponible",
+  "informations": [
+    {
+      "priorite": 3,
+      "categorie": "technique",
+      "titre": "Initialisation",
+      "texte": "Le fichier JSON est initialise."
+    },
+    {
+      "priorite": 2,
+      "categorie": "publication",
+      "titre": "Depot GitHub",
+      "texte": "Le canal de lecture est en test."
+    },
+    {
+      "priorite": 1,
+      "categorie": "automatisation",
+      "titre": "Prochaine etape",
+      "texte": "Tester la modification autonome."
+    }
+  ],
+  "signature": "Zéphyr 🦊"
+}
